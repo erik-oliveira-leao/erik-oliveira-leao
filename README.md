@@ -1,8 +1,6 @@
 
 
-
- ![](https://github-readme-stats.vercel.app/api?username=erik-oliveira-leao&show_icons=true&theme=flag-india)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-oliveira-leao&hide_progress=true)](https://github.com/erik-oliveira-leao/readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-oliveira-leao&hide_progress=true)](https://github.com/erik-oliveira-leao/readme)
 
 <!--
 **erik-oliveira-leao/erik-oliveira-leao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
