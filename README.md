@@ -1,5 +1,4 @@
 
-## https://erik-oliveira-leao.github.io/Portfolio/
 
 ## 🚀 A Agilidade na Estratégia Corporativa: Sinopse e Colaboração!
 
